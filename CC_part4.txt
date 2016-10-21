@@ -1,0 +1,30 @@
+5438050626130179||04/13||581||Terri stephens||4590 Red Rock Ranch Dr||Monument||CO||80132||UNITED
+STATES||7194879623
+Number: 373499039033017
+EXP: 1214
+CVV: 4064
+Name: Bess-Kalamotousakis
+Country: United States
+State: Ny
+ZIP: 11357
+City: Malverne
+Street: 16 Hunter Dr.
+Phone: N/A
+Bank: OPTIMA
+Email: N/A
+Card Number ; 5262641200211574
+Expiry ; ;1014
+CVV2 ; 087 -
+BANK : MASTERCARD - TOWER FEDERAL CREDIT UNION
+GOLD - UNITED STATES
+5178540198274243 09/13 016 johny vanacker zandstraat 59 BRUGGE N/A 8200 BELGIUM valid
+Number: 4092370000541761
+EXP: 0713
+CVV: 605
+Name: Suzi Gillman
+Country: United States
+State: California
+ZIP: 92570
+City: Perris
+Street: 20580 Emelita Street
+Phone: 951-293-1742
